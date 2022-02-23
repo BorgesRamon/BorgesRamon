@@ -14,6 +14,8 @@ Tenho 23 anos e moro em Brasília/DF. Sou iniciante na programação e desde sem
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorgesRamon)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 Caso queira falar comigo, aqui embaixo disponibilizo meus contatos.
 
 
