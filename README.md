@@ -4,11 +4,6 @@ Tenho 23 anos e moro em Brasília/DF. Sou iniciante na programação e desde sem
 
 📚 Tenho estudado PHP e iniciei meus estudos para desenvolver sistemas na web;
 
-:soccer: Troquei o futebol pela programação (é, mais ou menos);
-
-🎮 Adoro jogos online e se deixar eu passo horas na frente do computador;
-
-
 ### :computer: Tecnologias e Ferramentas:
 
 
