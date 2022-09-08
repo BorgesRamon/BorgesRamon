@@ -2,12 +2,18 @@
 
 Tenho 23 anos e moro em Brasília/DF. Sou iniciante na programação e desde sempre fui movido pela minha curiosidade na área de tecnologia: como funciona um login? Em qual lugar armazenam meus dados? Essas e outras perguntas me fizeram buscar conhecimento e me encontrar nesse universo que é a tecnologia.
 
-📚 Tenho estudado PHP e iniciei meus estudos para desenvolver sistemas na web;
+📚 Tenho trabalhado desenvolvendo sistemas em Java e React.
 
 ### :computer: Tecnologias e Ferramentas:
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="60" height="60"/>         
+<div>
+          
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesRamon)](https://github.com/BorgesRamon/github-readme-stats) -->
 
