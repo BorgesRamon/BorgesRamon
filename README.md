@@ -1,6 +1,6 @@
 # Ramon Borges
 
-Tenho 23 anos e moro em Brasília/DF. Sou iniciante na programação e desde sempre fui movido pela minha curiosidade na área de tecnologia: como funciona um login? Em qual lugar armazenam meus dados? Essas e outras perguntas me fizeram buscar conhecimento e me encontrar nesse universo que é a tecnologia.
+Tenho 23 anos e moro em Brasília/DF. Desde sempre fui movido pela minha curiosidade na área de tecnologia: como funciona um login? Em qual lugar armazenam meus dados? Essas e outras perguntas me fizeram buscar conhecimento e me encontrar nesse universo que é a tecnologia.
 
 📚 Tenho trabalhado desenvolvendo sistemas em Java e React.
 
