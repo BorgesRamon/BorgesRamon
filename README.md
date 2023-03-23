@@ -1,6 +1,6 @@
-# Ramon Borges
+<!-- # Ramon Borges
 
-Tenho 23 anos e moro em Brasília/DF. Desde sempre fui movido pela minha curiosidade na área de tecnologia: como funciona um login? Em qual lugar armazenam meus dados? Essas e outras perguntas me fizeram buscar conhecimento e me encontrar nesse universo que é a tecnologia.
+Tenho 23 anos e moro em Brasília/DF. Sou formado em Gestão Pública e graduando em Análise e Desenvolvimento de Sistemas pelo UniCEUB. Sou des
 
 📚 Tenho trabalhado desenvolvendo sistemas em Java e React.
 
@@ -12,19 +12,19 @@ Tenho 23 anos e moro em Brasília/DF. Desde sempre fui movido pela minha curiosi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="60" height="60"/>         
-<div>
+<div> -->
           
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesRamon)](https://github.com/BorgesRamon/github-readme-stats) -->
 
-📫 Caso queira falar comigo, aqui embaixo disponibilizo meus contatos.
+<!-- 📫 Caso queira falar comigo, aqui embaixo disponibilizo meus contatos.
 
 
 ### Contatos: :speech_balloon:
 <div>
 <a href = "mailto:contato@borgesramon1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ramonborgesa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+</div> -->
 
 <!-- <div>
 <a href="https://github.com/BorgesRamon">
