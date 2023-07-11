@@ -1,1 +1,1 @@
-Desenvolvedor apaixonado por soluções simples para problemas difíceis, mais de 2 anos de experiência no desenvolvimento de software com Java para web. Entusiasta de métodos ágeis, ambientes flexíveis e entrega contínua.
+
